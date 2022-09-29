@@ -23,6 +23,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+src/assets
+dist
 
 # vscode
 .vscode

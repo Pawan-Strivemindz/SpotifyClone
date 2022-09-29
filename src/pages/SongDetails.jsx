@@ -43,7 +43,6 @@ const SongDetails = () => {
                 activeSong = {activeSong}
                 handlePauseClick = {handlePauseClick}
                 handlePlayClick = {hanldePlayClick}
-
             />
         </div>
     )
